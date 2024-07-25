@@ -68,11 +68,10 @@ Funnel Map
 Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) broken down by different outlet types.
 
 ## Screenshots
-
-
-
-
-
+![Screenshot (44)](https://github.com/user-attachments/assets/ea7a5f54-3fa9-463f-970a-925e6acef134)
+![Screenshot (43)](https://github.com/user-attachments/assets/2bc1b940-be60-4c35-8892-1e8777e5689c)
+![Screenshot (46)](https://github.com/user-attachments/assets/9237e467-15fa-47c9-a44f-3368ce9e347c)
+![Screenshot (45)](https://github.com/user-attachments/assets/b6999fb3-ba9f-4005-8deb-0e0770c3dfa7)
 
 ## Project Steps
 - Requirement Gathering/ Business Requirements
